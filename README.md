@@ -55,17 +55,8 @@
 
 ![image](https://user-images.githubusercontent.com/92969676/170457646-274f6182-138d-4a42-b55f-74009a22bd29.png)
 
-![image](https://user-images.githubusercontent.com/92969676/170458106-5b97df8a-b7be-494e-8af0-ea7bfd5a0c88.png)
+![image](https://user-images.githubusercontent.com/92969676/170462990-e1fe25ff-ccb2-4dd8-971d-18eada276512.png)
 
+![image](https://user-images.githubusercontent.com/92969676/170462824-5b3c5a01-c6ca-4a81-bd47-f2af99f1dd16.png)
 
-
-
-
-
----
-
-### Как оформить ДЗ?
-
-Выполненное домашнее задание пришлите ссылкой на .md-файл в вашем репозитории.
-
----
+XML-Файл со схемами выгрузил и приложил в репозитории.

@@ -59,4 +59,7 @@
 
 ![image](https://user-images.githubusercontent.com/92969676/170462824-5b3c5a01-c6ca-4a81-bd47-f2af99f1dd16.png)
 
-XML-Файл со схемами выгрузил и приложил в репозитории.
+![image](https://user-images.githubusercontent.com/92969676/170465032-c8b5d8f6-3217-46ce-9169-a816ca5b00be.png)
+
+
+### XML-Файл со схемами выгрузил и приложил в репозитории.

@@ -62,4 +62,4 @@
 ![image](https://user-images.githubusercontent.com/92969676/170465032-c8b5d8f6-3217-46ce-9169-a816ca5b00be.png)
 
 
-### XML-Файл со схемами выгрузил и приложил в репозитории.
+### XML-файлы с Workflow выгрузил и выложил в репозиторий.
